@@ -5,7 +5,7 @@
 
 1. Fork the repository 
 2. Do the desired changes (add/delete/modify)
-3. Make a pull request
+3. Make a pull request for changes
 
 ## When to contribute?
 
