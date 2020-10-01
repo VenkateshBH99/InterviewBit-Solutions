@@ -1,4 +1,4 @@
-# [Interviewbit](https://www.interviewbit.com) solutions
+# [Interviewbit](https://www.interviewbit.com) solutions:
 * [My interviewbit profile](https://www.interviewbit.com/profile/venkatesh_b_h)
 
 ## How to contribute?
